@@ -1,0 +1,17 @@
+# Keil C51 编译输出
+Objects/
+Listings/
+*.LST
+*.lst
+*.OBJ
+*.obj
+*.m51
+*.lnp
+*.build_log.htm
+*.uvgui.*
+*.uvopt
+build_*.txt
+
+# 系统文件
+Thumbs.db
+desktop.ini
